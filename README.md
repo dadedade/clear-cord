@@ -1,2 +1,3 @@
 # clear-cord
-clear discord
+
+an effective python script to clear discord 
